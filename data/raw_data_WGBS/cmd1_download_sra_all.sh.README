@@ -1,0 +1,1 @@
+python ../../scripts/gener_cmd_download_sra.py SraRunTable_SRP056185_sample.txt  > cmd1_download_sra_all.sh

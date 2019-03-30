@@ -1,0 +1,2 @@
+python ../../scripts/gener_cmd_sra2fq_fqc.py SRR_Acc_List.txt > cmd2_sra2fq_fqc.sh
+

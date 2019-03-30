@@ -1,0 +1,2 @@
+python ../../scripts/gener_cmd_sra2fq_fastqc.py SraRunTable_SRP056185_sample.txt > cmd2_sra2fq_fastqc.sh
+

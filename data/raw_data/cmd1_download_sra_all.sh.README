@@ -1,0 +1,2 @@
+python ../../scripts/gener_cmd_download_sra.py SRR_Acc_List.txt > cmd1_download_sra_all.sh
+
