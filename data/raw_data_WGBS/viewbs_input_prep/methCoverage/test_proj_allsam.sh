@@ -1,0 +1,1 @@
+Rscript /home/xie002/tb_tutorial/tool/ViewBS/lib/Meth/Coverage.R --input /home/xie002/tb_tutorial/data/raw_data_WGBS/viewbs_input_prep/methCoverage/test_proj_allsam.tab --height 10 --width 10 --output /home/xie002/tb_tutorial/data/raw_data_WGBS/viewbs_input_prep/methCoverage/test_proj_allsam.pdf

@@ -1,0 +1,1 @@
+/home/xie002/tb_tutorial/tool/bismark_v0.22.1/bismark_methylation_extractor -s --output test/ --cytosine_report --genome_folder ../../../data/ref/bismark_index/ ../set1rep1_bismark_bt2.deduplicated.bam > meth_info_set1rep1.log & 

@@ -1,0 +1,2 @@
+ awk '$3=="gene"' ../../ref/Saccharomyces_cerevisiae.R64-1-1.93.gff3  |perl -e 'while(<>){chomp; @aa=split("\t"); @bb=split(/;/, $aa[-1]);print "$aa[0]\t$aa[3]\t$aa[4]\t$bb[0]\t$aa[6]\n";}'  > gene_coor.tab
+
